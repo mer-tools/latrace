@@ -1,0 +1,8 @@
+* Mon Jun 2  2012 Carsten Munk <carsten@merproject.org> - 0.5.11-0
+- Specify and allow to build for ARM, solve MER#399
+
+* Mon Jul 28 2011 Jiri Olsa <olsajiri@gmail.com> - 0.5.11-0
+- updated to new version
+
+* Mon Feb 07 2011 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 0.5.10-1
+- Rebuilt for https://fedoraproject.org/wiki/Fedora_15_Mass_Rebuild
